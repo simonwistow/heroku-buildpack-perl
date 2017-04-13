@@ -26,7 +26,7 @@ Example usage:
     -----> Perl/PSGI app detected
     -----> Installing dependencies
 
-The buildpack will detect that your app has an `app.psgi` in the root.
+The buildpack will detect that your app has an `app.psgi` in the root or in a directory called `webapp`.
 
 Libraries
 ---------
